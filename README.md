@@ -75,6 +75,11 @@ Here are some screenshots demonstrating the dashboard:
 ![RedBlueDark](task3/RedBlueDark.png)  
 *The same red-blue chart, but in the dark theme.*
 
+#### **Radar Chart***
+![Radar Chart] (task3/WebLight.png)
+
+![Radar Chart] (task3/WebDark.png)
+
 ### **Settings**
 ![Settings](task3/Settings.png)  
 *Settings page for configuring user preferences and theme options.*
