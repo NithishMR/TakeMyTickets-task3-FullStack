@@ -48,11 +48,14 @@ Here are some screenshots demonstrating the dashboard:
 ![BubbleDark](task3/BubbleDark.png)  
 *Bubble chart with the dark theme.*
 
-#### **Radar Charts**
-![MixLight](task3/MixLight.png)  
+#### **Polar Area Charts**
+![MixLight](task3/MixLight.png) 
+
+
 *A combination of charts illustrating different stock data analysis with the light theme.*
 
 ![MixDark](task3/MixDark.png)  
+
 *A combination of charts with the dark theme.*
 
 #### **Scatter Plot Chart**
