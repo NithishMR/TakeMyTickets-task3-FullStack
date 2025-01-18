@@ -24,9 +24,9 @@ This project is a dynamic and interactive dashboard built to analyze **IBM's int
 ## **Technologies Used**
 - **Frontend**: React.js, TailwindCSS for styling, Chart.js for visualizations.
 - **Backend**: Node.js for fetching stock data.
-- **API**: Alpha Vantage for real-time IBM stock data(demo version).
+- **API**: Alpha Vantage for real-time IBM stock data (demo version).
 
-  ## **Screenshots**
+## **Screenshots**
 Here are some screenshots demonstrating the dashboard:
 
 ### **Home Page**
@@ -49,13 +49,10 @@ Here are some screenshots demonstrating the dashboard:
 *Bubble chart with the dark theme.*
 
 #### **Polar Area Charts**
-![MixLight](task3/MixLight.png) 
-
-
+![MixLight](task3/MixLight.png)  
 *A combination of charts illustrating different stock data analysis with the light theme.*
 
 ![MixDark](task3/MixDark.png)  
-
 *A combination of charts with the dark theme.*
 
 #### **Scatter Plot Chart**
@@ -65,7 +62,7 @@ Here are some screenshots demonstrating the dashboard:
 ![PointDark](task3/PointDark.png)  
 *Point chart with the dark theme.*
 
-#### **Line Chart Charts**
+#### **Line Chart**
 ![GreenChartLight](task3/GreenChartLight.png)  
 *A specific chart visualizing stock performance with the light theme.*
 
@@ -75,12 +72,13 @@ Here are some screenshots demonstrating the dashboard:
 ![RedBlueDark](task3/RedBlueDark.png)  
 *The same red-blue chart, but in the dark theme.*
 
-#### **Radar Chart***
-![Radar Chart] (task3/WebLight.png)
+#### **Radar Chart**
+![RadarChartLight](task3/WebLight.png)  
+*Radar chart with the light theme.*
 
-![Radar Chart] (task3/WebDark.png)
+![RadarChartDark](task3/WebDark.png)  
+*Radar chart with the dark theme.*
 
 ### **Settings**
 ![Settings](task3/Settings.png)  
 *Settings page for configuring user preferences and theme options.*
-
