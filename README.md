@@ -48,21 +48,21 @@ Here are some screenshots demonstrating the dashboard:
 ![BubbleDark](task3/BubbleDark.png)  
 *Bubble chart with the dark theme.*
 
-#### **Mix of Charts**
+#### **Radar Charts**
 ![MixLight](task3/MixLight.png)  
 *A combination of charts illustrating different stock data analysis with the light theme.*
 
 ![MixDark](task3/MixDark.png)  
 *A combination of charts with the dark theme.*
 
-#### **Point Chart**
+#### **Scatter Plot Chart**
 ![PointLight](task3/PointLight.png)  
 *Point chart displaying stock volume over time with the light theme.*
 
 ![PointDark](task3/PointDark.png)  
 *Point chart with the dark theme.*
 
-#### **Other Charts**
+#### **Line Chart Charts**
 ![GreenChartLight](task3/GreenChartLight.png)  
 *A specific chart visualizing stock performance with the light theme.*
 
