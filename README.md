@@ -82,3 +82,10 @@ Here are some screenshots demonstrating the dashboard:
 ### **Settings**
 ![Settings](task3/Settings.png)  
 *Settings page for configuring user preferences and theme options.*
+
+## **Project Status**
+
+This project is currently **ongoing** and is still being developed. There are several areas that could be improved, including:
+- **Data Range**: Currently, the project fetches data only for **IBM** due to the limitations of the demo API key.
+- **Additional Visualizations**: Future improvements may include adding more interactive features, advanced chart types, and custom analytics.
+
