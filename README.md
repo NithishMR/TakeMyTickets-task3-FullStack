@@ -66,6 +66,8 @@ Here are some screenshots demonstrating the dashboard:
 ![GreenChartLight](task3/GreenChartLight.png)  
 *A specific chart visualizing stock performance with the light theme.*
 
+### *** Comparative Line Chart**
+
 ![RedBlueLight](task3/RedBlueLight.png)  
 *Chart with a red-blue color scheme in the light theme.*
 
